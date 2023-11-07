@@ -6,9 +6,6 @@ Welcome to the GitHub repository of the Akwadrat Interior Design Studio landing 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Services](#services)
-- [Projects](#projects)
-- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
@@ -24,5 +21,6 @@ Our landing page serves as a digital front door to Akwadrat Interior Design Stud
 ## License
 
 This landing page is developed and maintained by Aleksander Folfas in 2023. All rights reserved.
+However, feel free to check it out.
 
 **Transform your interior dreams into reality with Akwadrat Interior Design Studio!**
